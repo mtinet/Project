@@ -26,4 +26,4 @@
 
 ---
 * 이곳은 잡다한 프로젝트 저장소입니다.  
-[- 유튜브 링크 달 때 전체화면 활성화하기](https://github.com/mtinet/youtube_fullScreenVideoLink)  
+[- 유튜브 링크 달 때 전체화면 활성화하기](https://github.com/mtinet/youtube_fullScreenVideoLink)    

@@ -1,0 +1,6 @@
+{
+  "name": "Project",
+  "tagline": "",
+  "body": "---\r\n# Project\r\n---\r\n\r\n---\r\n* 이곳은 p5js 개인 프로젝트 저장소입니다.  \r\n \r\n [- p5js 개인 연습장](https://github.com/mtinet/p5js)  \r\n\r\n [- p5js github 구동 예제](https://github.com/mtinet/p5js_github_example)  \r\n\r\n---\r\n* 이곳은 아두이노 개인 프로젝트 저장소입니다.  \r\n\r\n [- CdS 알람 만들기](https://github.com/mtinet/CdS_Alarm)  \r\n\r\n [- LED 룰렛 만들기](https://github.com/mtinet/led_roulette)  \r\n\r\n [- 버튼으로 모터 회전방향 바꾸기](https://github.com/mtinet/reverse_motorDirection)  \r\n\r\n [- 아두이노 블루투스 자동차 만들기](https://github.com/mtinet/arduino_bluetooth_car)  \r\n\r\n [- 가속도 센서로 반응하는 가속 및 브레이크 표시등 만들기](https://github.com/mtinet/Brake-lamp-activated-by-Accelerometer)  \r\n\r\n\r\n\r\n---\r\n* 이곳은 잡다한 프로젝트 저장소입니다.  \r\n [- 유튜브 링크 달 때 전체화면 활성화하기](https://github.com/mtinet/youtube_fullScreenVideoLink)    \r\n",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}

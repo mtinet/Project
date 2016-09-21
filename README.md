@@ -22,7 +22,7 @@
 
  [- 가속도 센서로 반응하는 가속 및 브레이크 표시등 만들기](https://github.com/mtinet/Brake-lamp-activated-by-Accelerometer)  
 
- [- LED 룰렛 만들기](https://github.com/mtinet/led_roulette)  
+
 
 ---
 * 이곳은 잡다한 프로젝트 저장소입니다.  
